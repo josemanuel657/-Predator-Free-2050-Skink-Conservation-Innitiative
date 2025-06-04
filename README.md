@@ -18,8 +18,10 @@ This project supports the Predator Free 2050 Goal in Aotearoa New Zealand by ana
 - **Sustainability**
 - **Culture**
 
+**Learn more about this project:** [WPI Digital Archive](https://digital.wpi.edu/concern/student_works/1n79h8707?locale=en)
+
 <p align="left">
   <img src="https://github.com/user-attachments/assets/00007492-3095-4352-b4f9-0e48c44d7baa" alt="thumbnail" width="400"/>
 </p>
 
-**Learn more about this project:** [WPI Digital Archive](https://digital.wpi.edu/concern/student_works/1n79h8707?locale=en)
+
