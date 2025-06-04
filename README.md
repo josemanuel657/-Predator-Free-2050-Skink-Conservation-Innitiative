@@ -5,6 +5,11 @@
 **Course**: Interactive Qualifying Project.
 **Sponsor**: Dr. Sara Belcher. Victoria University of Wellington.
 
+### Author: José Manuel Pérez Jiménez  
+**Institution**: Worcester Polytechnic Institute (WPI)  
+**Course**: HU 3900 - Intercultural Communication  
+**Submitted to**: Professor Esther Boucher-Yip, Department of Humanities & Arts  
+
 ## Paper Overview
 
 This project supports the Predator Free 2050 Goal in Aotearoa New Zealand by analyzing tracking tunnels as part of a conservation initiative for threatened native skink species. We conducted fieldwork to test the outcomes of bait type and other factors that support skink detection. We compared pitfall traps and tracking tunnels using existing data from two local agencies: the GWRC and EcoGecko. To create a strategy that incorporates citizen science and education using a Māori framework, we partnered with the Te Arawa iwi near Rotorua, to learn how youth education programming integrates into conservation. Through testing and analysis, we found that bait is not as useful as originally thought. Additionally, we outlined non-invasive tracking methods for use in conservation education.
