@@ -1,13 +1,9 @@
 # Enhancing Monitoring Methods for Native Skinks of Aotearoa: A Fusion of Mātauranga Māori and Western Science
 
-### Authors: Jose Perez, Macayle Wells, Henry Wagg, Leah Uglevich, Joshua Caputo.
-**Institution**: Worcester Polytechnic Institute (WPI). 
-**Course**: Interactive Qualifying Project.
-**Sponsor**: Dr. Sara Belcher. Victoria University of Wellington.
-
 ### Author: Jose Perez, Macayle Wells, Henry Wagg, Leah Uglevich, Joshua Caputo.
 **Institution**: Worcester Polytechnic Institute (WPI)  
 **Course**: Interactive Qualifying Project
+
 **Submitted to**: Dr. Sara Belcher. Victoria University of Wellington.
 
 ## Paper Overview
